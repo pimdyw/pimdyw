@@ -1,7 +1,7 @@
 ### Hi Everyone, Welcome to my github 👋
 ###### My name is Nutcha Theeranaew or you can call me "pim" it's like my github's name hahaha so i study at King Mongkut's Institute of Technology Ladkrabang, school of information technology, Now i'm 3rd year almost graduation ok nice to meet you, I hope to talk about many thing about web development with you.
 
-![alt text](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.fanpop.com%2Fclubs%2Fbarbie-princess-charm-school%2Fimages%2F31086446%2Ftitle%2Fdelancy-photo&psig=AOvVaw2sQBvcmbQYiGGvp06IgS4D&ust=1676891995536000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCLDamdC7of0CFQAAAAAdAAAAABAE)
+![alt text](https://i.pinimg.com/originals/14/86/b8/1486b8b2a9abde0cbef5f360e0eb4371.png)
 
 -🌱 I'm currently learning frontend, backend and testing software skill.
 
