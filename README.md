@@ -1,5 +1,8 @@
 ### Hi Everyone, Welcome to my github 👋
 ###### My name is Nutcha Theeranaew or you can call me "pim" it's like my github's name hahaha so i study at King Mongkut's Institute of Technology Ladkrabang, school of information technology, Now i'm 3rd year almost graduation ok nice to meet you, I hope to talk about many thing about web development with you.
+
+![alt text](https://i.ytimg.com/vi/l3Pv5A7WWAY/maxresdefault.jpg)
+
 -🌱 I'm currently learning frontend, backend and testing software skill.
 
 -🤔 I'm currently looking for an internship as a web developer. If you are interested me, you can contact me at Yume23.alo@gmail.com .
