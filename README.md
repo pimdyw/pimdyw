@@ -1,6 +1,6 @@
 ### Hi Everyone, Welcome to my github 👋
-🌱 I'm currently learning frontend, backend and testing software skill.
-🤔 I'm currently looking for an internship. If you are interested me, you can contact me at Yume23.alo@gmail.com .
+-🌱 I'm currently learning frontend, backend and testing software skill.
+-🤔 I'm currently looking for an internship. If you are interested me, you can contact me at Yume23.alo@gmail.com .
 <img src="https://badges.aleen42.com/src/react.svg" alt="badge"/>
 
 <!--
