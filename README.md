@@ -5,7 +5,7 @@
 
 -🌱 I'm currently learning frontend, backend and testing software skill.
 
--🤔 I'm currently looking for an internship as a web developer. If you are interested me, you can contact me at Yume23.alo@gmail.com .
+-🤔 I'm currently looking for an internship or Co-operative as a web developer or software tester. If you are interested me, you can contact me at Yume23.alo@gmail.com .
 
 My skill
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html"/>
