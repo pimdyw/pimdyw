@@ -1,10 +1,4 @@
-### Hi Everyone, Welcome to my github 👋
-###### My name is Nutcha Theeranaew or you can call me "pim" it's like my github's name hahaha so i study at King Mongkut's Institute of Technology Ladkrabang, school of information technology, Now i'm 4th year almost graduation ok nice to meet you, I hope to talk about many thing about web development with you.
-
-
--🌱 I'm currently learning frontend, backend and testing software skill.
-
--🤔 I'm currently looking for an internship or Co-operative as a web developer or software tester. If you are interested me, you can contact me at nutchath.thee@gmail.com.
+contact me: nutchath.thee@gmail.com.
 
 My skill
 <img src="https://img.shields.io/badge/Kotlin-B125EA?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin"/>
